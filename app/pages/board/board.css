@@ -1,0 +1,22 @@
+#body > div {
+    display: inline-block;
+    margin: 0 100px;
+}
+
+#front div > * {
+     display: inline-block;
+}
+
+#back div > * {
+    display: inline-block;
+}
+
+.trapezius {
+    margin: 0 50px;
+}
+.legs {
+    margin: 0 50px;
+}
+.waist {
+    margin: 0 25px;
+}
