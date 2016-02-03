@@ -9,6 +9,6 @@ angular.module('myApp.board', ['ngRoute'])
         });
     }])
 
-    .controller('BoardCtrl', [function() {
-
+    .controller('BoardCtrl', [function($scope) {
+        //$scope.
     }]);
